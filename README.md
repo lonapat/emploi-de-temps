@@ -1,2 +1,2 @@
-# emploi-de-temps
-Liste des taches à faire avec ReactJS
+# to-do-list
+Simple to do application written on react.js
